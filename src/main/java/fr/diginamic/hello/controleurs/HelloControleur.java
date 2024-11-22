@@ -1,6 +1,7 @@
 package fr.diginamic.hello.controleurs;
 
 
+import fr.diginamic.hello.entities.HelloService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

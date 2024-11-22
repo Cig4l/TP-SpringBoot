@@ -1,6 +1,5 @@
-package fr.diginamic.hello.controleurs;
+package fr.diginamic.hello.entities;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 @Service // Spécialisation de @Component
